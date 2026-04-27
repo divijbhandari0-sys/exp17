@@ -1,4 +1,5 @@
 Name - Divij Bhandari
+Prn - 25070123160
 Aim: To study and implement Basic Charts and Visual Encoding using Python.
 
 THEORY
